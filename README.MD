@@ -30,7 +30,7 @@
 * How to safely test incentive systems, for consumers and producers
 * The most important job of the future, stewardship & social support networks
 
-###The most important requirement – a stable transition plan
+### The most important requirement – a stable transition plan
 * No time to negotiate – the house is on fire but armed guards are surrounding the fire hose
 * Beyond a Green New Deal, we need to rethink Bretton Woods and the role of the IMF
 * Framing a conversation to entice existing power brokers, bribe them with decaying contracts and offer cheaper buy-in to first movers
